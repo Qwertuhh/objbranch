@@ -1,0 +1,11 @@
+{
+  "name": "objbranch",
+  "version": "1.0.2",
+  "description": "to do next to next operation on field  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qwertuhh",
+  "license": "MIT"
+}
