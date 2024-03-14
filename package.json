@@ -1,8 +1,8 @@
 {
   "name": "objbranch",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "to do next to next operation on field  ",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +11,6 @@
     "url": "https://github.com/Qwertuhh/objbranch.git"
 },
   "author": "qwertuhh",
-  "keywords": ["mongoose","object","nodeing"],
+  "keywords": ["mongoose","object","node","array","big data","mongoDB"],
   "license": "MIT"
 }
